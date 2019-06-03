@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/Coding/C++/cs130a/main.exe",
+            "includePath": [
+                "${workspaceFolder}"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0",
+                    "C:/Coding/C++/cs130a/"
+                ]
+            },
+            "defines": [],
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
